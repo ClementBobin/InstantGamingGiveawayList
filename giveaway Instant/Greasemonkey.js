@@ -19,7 +19,7 @@
     retryMinDelay: 1000, // Minimum delay for retrying actions (in milliseconds)
     retryMaxDelay: 2500, // Maximum delay for retrying actions (in milliseconds)
     maxRetries: 3, // Maximum number of retries for failed actions
-    giveawayRepoUrl: "https://raw.githubusercontent.com/ClementBobin/InstantGamingGiveawayList/main/giveawayLinks.json", // URL to the JSON file in the GitHub repo
+    giveawayRepoUrl: "https://raw.githubusercontent.com/ClementBobin/InstantGamingGiveawayList/main/giveaway Instant/giveawayLinks.json", // URL to the JSON file in the GitHub repo
     discordWebhookUrl: "", // Discord webhook URL for error reporting (optional)
   };
 
