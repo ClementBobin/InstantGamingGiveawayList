@@ -3,12 +3,12 @@
 // @description  Automatically clicks participate buttons on Instant-Gaming giveaways.
 // @version      2.1
 // @author       mirage
-// @namespace    https://github.com/ClementBobin/InstantGamingGiveawayList
+// @namespace    https://github.com/ClementBobin/giveaway Instant/InstantGamingGiveawayList
 // @match        *://www.instant-gaming.com/*/giveaway/*
 // @run-at       document-idle
 // @grant        GM_registerMenuCommand
-// @downloadURL  https://github.com/ClementBobin/InstantGamingGiveawayList/raw/main/Greasemonkey.js
-// @updateURL    https://github.com/ClementBobin/InstantGamingGiveawayList/raw/main/Greasemonkey.js
+// @downloadURL  https://github.com/ClementBobin/InstantGamingGiveawayList/raw/main/giveaway Instant/Greasemonkey.js
+// @updateURL    https://github.com/ClementBobin/InstantGamingGiveawayList/raw/giveaway Instant/main/Greasemonkey.js
 // ==/UserScript==
 
 (function() {
